@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1043px" height="749px" viewBox="0 0 1043 749" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Path 13 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="76.735862%" y1="24.2151356%" x2="10.5994899%" y2="56.2774666%" id="linearGradient-1">
+            <stop stop-color="#69E3FF" offset="0%"></stop>
+            <stop stop-color="#69BBED" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.199999988">
+        <g id="P1005---Illu-Gallery" transform="translate(-299.000000, -969.000000)" fill="url(#linearGradient-1)">
+            <path d="M501.000205,991.580837 C623.543332,956.381297 744.27675,962.33416 863.200459,1009.43943 C1041.58602,1080.09733 999.704195,1165.50798 1172.66063,1213.64852 C1345.61707,1261.78907 1396.03038,1429.50453 1277.3652,1490.8449 C1158.70002,1552.18528 888.794909,1415.52824 803.480074,1591.78476 C746.603518,1709.28911 646.035424,1744.74747 501.775795,1698.15984 C366.727906,1600.47138 299.135975,1489.75144 299,1366 C298.864299,1242.24856 366.1977,1117.44218 501.000205,991.580837 Z" id="Path-13-Copy" transform="translate(820.500103, 1343.500000) scale(-1, -1) translate(-820.500103, -1343.500000) "></path>
+        </g>
+    </g>
+</svg>
