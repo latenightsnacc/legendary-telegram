@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Open+Sans:wght@300;400&display=swap');
-#access ul{
-    padding: 0px;
-}
+
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Montserrat', sans-serif;
 }
@@ -34,8 +32,7 @@ p, div, a, button {
 	list-style: none;
 	width: 20px;
 	height: 20px;
-    /* background: rgba(96, 183, 199, 0.1); */
-    background: #ff99c9;
+	background: rgba(96, 183, 199, 0.1);
 	animation: animate 25s linear infinite;
 	bottom: calc(-150px - 40vh);
 }
@@ -47,9 +44,8 @@ p, div, a, button {
 	animation-delay: 0s;
 	animation-duration: 20s;
 	border-radius: 50%;
-	/* border-top-left-radius: 0 !important; */
-    /* background: rgba(47, 44, 92, 0.1); */
-    background: #ff99c9;
+	border-top-left-radius: 0 !important;
+	background: rgba(47, 44, 92, 0.1);
 }
 
 .circles li:nth-child(2) {
@@ -59,9 +55,8 @@ p, div, a, button {
 	animation-delay: 0s;
 	animation-duration: 25s;
 	border-radius: 50%;
-	/* border-top-left-radius: 0 !important; */
-    /* background: rgba(96, 183, 199, 0.1); */
-    background: #ff99c9;
+	border-top-left-radius: 0 !important;
+	background: rgba(96, 183, 199, 0.1);
 }
 
 .circles li:nth-child(3) {
@@ -71,9 +66,8 @@ p, div, a, button {
 	animation-delay: 0s;
 	animation-duration: 20s;
 	border-radius: 50%;
-    /* border-top-left-radius: 0 !important; */
-    background: #ff99c9;
-	/* background: rgba(47, 44, 92, 0.1); */
+	border-top-left-radius: 0 !important;
+	background: rgba(47, 44, 92, 0.1);
 }
 
 .circles li:nth-child(4) {
@@ -83,9 +77,8 @@ p, div, a, button {
 	animation-delay: 0s;
 	animation-duration: 15s;
 	border-radius: 50%;
-    /* border-top-left-radius: 0 !important; */
-    background: #ff99c9;
-	/* background: rgba(114, 63, 145, 0.1); */
+	border-top-left-radius: 0 !important;
+	background: rgba(114, 63, 145, 0.1);
 }
 
 .circles li:nth-child(5) {
@@ -95,9 +88,8 @@ p, div, a, button {
 	animation-delay: 0s;
 	animation-duration: 20s;
 	border-radius: 50%;
-	/* border-top-left-radius: 0 !important; */
-    /* background: rgba(96, 183, 199, 0.1); */
-    background: #ff99c9;
+	border-top-left-radius: 0 !important;
+	background: rgba(96, 183, 199, 0.1);
 }
 
 .circles li:nth-child(6) {
@@ -107,9 +99,8 @@ p, div, a, button {
 	animation-delay: 0s;
 	animation-duration: 25s;
 	border-radius: 50%;
-	/* border-top-left-radius: 0 !important; */
-    /* background: rgba(114, 63, 145, 0.1); */
-    background: #ff99c9;
+	border-top-left-radius: 0 !important;
+	background: rgba(114, 63, 145, 0.1);
 }
 
 .circles li:nth-child(7) {
@@ -119,9 +110,8 @@ p, div, a, button {
 	animation-delay: 0s;
 	animation-duration: 30s;
 	border-radius: 50%;
-	/* border-top-left-radius: 0 !important; */
-    /* background: rgba(47, 44, 92, 0.1); */
-    background: #ff99c9;
+	border-top-left-radius: 0 !important;
+	background: rgba(47, 44, 92, 0.1);
 }
 
 .circles li:nth-child(8) {
@@ -131,9 +121,8 @@ p, div, a, button {
 	animation-delay: 0s;
 	animation-duration: 35s;
 	border-radius: 50%;
-    /* border-top-left-radius: 0 !important; */
-    background: #ff99c9;
-	/* background: rgba(114, 63, 145, 0.1); */
+	border-top-left-radius: 0 !important;
+	background: rgba(114, 63, 145, 0.1);
 }
 
 .circles li:nth-child(9) {
@@ -143,9 +132,8 @@ p, div, a, button {
 	animation-delay: 0s;
 	animation-duration: 40s;
 	border-radius: 50%;
-    /* border-top-left-radius: 0 !important; */
-    background: #ff99c9;
-	/* background: rgba(47, 44, 92, 0.1); */
+	border-top-left-radius: 0 !important;
+	background: rgba(47, 44, 92, 0.1);
 }
 
 .circles li:nth-child(10) {
@@ -155,9 +143,8 @@ p, div, a, button {
 	animation-delay: 0s;
 	animation-duration: 45s;
 	border-radius: 50%;
-    /* border-top-left-radius: 0 !important; */
-    background: #fbd87f;
-	/* background: rgba(96, 183, 199, 0.1); */
+	border-top-left-radius: 0 !important;
+	background: rgba(96, 183, 199, 0.1);
 }
 
 @keyframes animate {
